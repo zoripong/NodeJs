@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-study-3618",
+  "version": "1.0.0",
+  "description": "생활코딩 node.js 강좌",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuri",
+  "license": "ISC"
+}
